@@ -6,6 +6,7 @@
 #  Content-based image classification :: Randomized PCA + KNeighborsClassifier  
 #
 #  
+#  References : http://blog.yhat.com/posts/image-classification-in-Python.html
 
 import numpy as np
 import cv2
