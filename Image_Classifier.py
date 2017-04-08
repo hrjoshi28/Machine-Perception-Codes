@@ -13,7 +13,7 @@ import cv2
 import glob
 from matplotlib import pyplot as plt
 from sklearn.decomposition import PCA
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 
 counter=0
